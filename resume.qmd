@@ -1,8 +1,92 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Lance Breidenbaugh's CV
 ---
-# Isaac Newton
+
+# Lance Breidenbaugh
+Aspiring Data Analyst | Business Finance Major | BYU-Idaho
+
+<div id="webaddress">
+<a href="mailto:lance@breidenbaugh.net">lance@breidenbaugh.net</a> ● 561-543-2151 ● 
+<a href="https://www.linkedin.com/in/lance-breidenbaugh/">LinkedIn</a>
+</div>
+
+---
+
+## Currently
+
+Data Analyst at BYU-Idaho Support Center | Graduating July 2025
+
+### Specialized in
+
+Data analysis, Power BI dashboards, Excel automation, financial auditing, SQL-based insights
+
+### Interests
+
+Business analytics, financial systems, data pipelines, automation, education, helping teams grow with data
+
+---
+
+## Education
+
+`July 2025`  
+__Brigham Young University – Idaho__  
+Bachelor of Science in Business Finance  
+Minor: Data Science | GPA: 3.74
+
+### Relevant Coursework
+Data Science Programming, Intermediate Statistics, Operations Management, Financial Planning, Business Analytics, Spreadsheet Analysis, Financial & Managerial Accounting, Advanced Financial Management, Databases, Programming with Functions
+
+---
+
+## Projects
+
+### Merit Raise Excel Workbook – BYU-Idaho Support Center
+- Created an Excel tool using double XLOOKUPs, nested IFs, and clear instructions to assess merit raise eligibility.
+- Reduced evaluation time by over 50% for senior managers.
+
+### Internal Audit Dashboard – The Church of Jesus Christ of Latter-day Saints
+- Built Power BI dashboards using Power Query and DAX to analyze internal audit trends across North America.
+
+---
+
+## Experience
+
+### Data Analyst – BYU-Idaho Support Center, Rexburg, ID  
+`Sep 2024 – Present`
+- Extracted SQL data to generate insights via Power BI dashboards.
+- Proposed new data strategies during a phone system migration.
+- Collaborated with cross-functional teams to complete data projects.
+
+### Finance Intern – The Church of Jesus Christ of Latter-Day Saints, Salt Lake City, UT  
+`Apr 2024 – Sep 2024`
+- Used Power Automate and Excel macros to reduce audit time by 25%.
+- Managed and approved multi-million-dollar AP budgets with 100% accuracy.
+- Discovered $1M+ in discrepancies and led efforts to resolve them.
+
+### Teacher Assistant – BYU-Idaho, Rexburg, ID  
+`Jan 2024 – Apr 2024`
+- Graded 500+ Excel assignments covering PivotTables, VBA, XLOOKUP, and more.
+- Designed three new rubrics to speed up grading by 20%.
+- Lectured for 40 students on advanced Excel topics like macros.
+
+### Team Lead – BYU-Idaho Support Center, Rexburg, ID  
+`Apr 2022 – Apr 2024`
+- Cut team escalation rate by 10% using Power BI goals and follow-ups.
+- Found and fixed 100+ issues in the internal database to support agent workflows.
+
+---
+
+## Skills & Achievements
+
+**Technical Skills**  
+Excel, VBA, Power BI, DAX, SQL, Python, R
+
+**Certifications**  
+QPR Certified (2024)  
+Eagle Scout, Boy Scouts of America (2018)
+
+<!-- # Isaac Newton
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
@@ -80,10 +164,10 @@ __Royal Mint__, London
 - Minted coins
 
 `1600`
-__Lucasian professor of Mathematics__, Cambridge University
+__Lucasian professor of Mathematics__, Cambridge University -->
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2025 -->
